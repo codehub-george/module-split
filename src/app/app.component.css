@@ -1,0 +1,9 @@
+nav {
+    padding: 30px;
+    background-color: beige;
+}
+
+nav span {
+    padding: 10px;
+    cursor: pointer;
+}
